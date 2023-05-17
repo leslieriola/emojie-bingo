@@ -39,29 +39,5 @@ the game will let you know when you have a bingo.
 When you get a bingo,
 let the host know so they can verify it.
 
-# Customize
-
-The emoji are located in [main.js](src/main.js).
-
-# Build
-
-```bash
-git clone https://github.com/lettier/emoji-bingo.git
-cd emoji-bingo
-# Install Node Version Manager.
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
-nvm use
-npm install
-npm run build
-```
-
-# Run
-
-```bash
-npm run dev &> /dev/null &
-python -mwebbrowser http://localhost:55555
-```
-
-## Copyright
 
 (C) 2023 Leslie Riola
