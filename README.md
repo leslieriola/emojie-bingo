@@ -3,7 +3,6 @@
 # Emoji Bingo
 
 A game of chance, clicks, and emoji.
-Made with [Svelte](https://github.com/sveltejs/svelte).
 Click [here](https://lettier.github.io/emoji-bingo/) to play.
 
 # Gameplay
@@ -65,6 +64,4 @@ python -mwebbrowser http://localhost:55555
 
 ## Copyright
 
-(C) 2020 David Lettier
-<br>
-[lettier.com](https://www.lettier.com)
+(C) 2023 Leslie Riola
